@@ -1,4 +1,4 @@
-# Create react app +jest + enzyme
+# Create react app + jest + enzyme
 
 ## Documentation
 
