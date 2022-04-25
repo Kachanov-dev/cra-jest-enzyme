@@ -5,7 +5,7 @@
 config
 
 ```
-nodejs < 14
+nodejs <= 14
 yarn
 
 ```
